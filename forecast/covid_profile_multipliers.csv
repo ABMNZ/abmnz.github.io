@@ -1,0 +1,151 @@
+region,building_type,year,offset,multiplier
+Auckland Region,Commercial,2020,0,0.8782177971480147
+Auckland Region,Commercial,2021,1,0.8964489488093618
+Auckland Region,Commercial,2022,2,1.0971882975724796
+Auckland Region,Commercial,2023,3,1.150240208940338
+Auckland Region,Commercial,2024,4,1.2162065270614855
+Auckland Region,Farm,2020,0,1.0688773483519145
+Auckland Region,Farm,2021,1,1.0776762090486387
+Auckland Region,Farm,2022,2,0.8324210603876766
+Auckland Region,Farm,2023,3,0.7083224661013547
+Auckland Region,Farm,2024,4,1.0184308153116859
+Auckland Region,Industrial,2020,0,1.554314996106793
+Auckland Region,Industrial,2021,1,1.5228794095805254
+Auckland Region,Industrial,2022,2,1.8250736092078297
+Auckland Region,Industrial,2023,3,2.2520538630171503
+Auckland Region,Industrial,2024,4,1.8367788704758687
+Auckland Region,Institutional,2020,0,1.06791113118639
+Auckland Region,Institutional,2021,1,1.6937142596515529
+Auckland Region,Institutional,2022,2,2.3441671253076093
+Auckland Region,Institutional,2023,3,1.546647423176009
+Auckland Region,Institutional,2024,4,1.5779691422449433
+Auckland Region,Residential,2020,0,1.2763355450827414
+Auckland Region,Residential,2021,1,1.6320788529966106
+Auckland Region,Residential,2022,2,1.7325001553481876
+Auckland Region,Residential,2023,3,1.399342801410318
+Auckland Region,Residential,2024,4,1.2956055955618655
+Canterbury Region,Commercial,2020,0,0.3983313836325557
+Canterbury Region,Commercial,2021,1,0.5560475611011763
+Canterbury Region,Commercial,2022,2,0.6285206738334858
+Canterbury Region,Commercial,2023,3,0.6519502747715193
+Canterbury Region,Commercial,2024,4,0.9896961167692715
+Canterbury Region,Farm,2020,0,0.46184821500380585
+Canterbury Region,Farm,2021,1,0.7911543832181588
+Canterbury Region,Farm,2022,2,0.7102589253182907
+Canterbury Region,Farm,2023,3,0.9030399198952136
+Canterbury Region,Farm,2024,4,0.8140979064919249
+Canterbury Region,Industrial,2020,0,0.6799599105235481
+Canterbury Region,Industrial,2021,1,0.9862572794344857
+Canterbury Region,Industrial,2022,2,1.480561751099166
+Canterbury Region,Industrial,2023,3,1.3195084060675442
+Canterbury Region,Industrial,2024,4,1.6176463769850518
+Canterbury Region,Institutional,2020,0,0.5651829731286044
+Canterbury Region,Institutional,2021,1,0.8851508811473275
+Canterbury Region,Institutional,2022,2,0.9323948858020179
+Canterbury Region,Institutional,2023,3,0.9812711285459136
+Canterbury Region,Institutional,2024,4,0.6826515064291173
+Canterbury Region,Residential,2020,0,1.0364299455043702
+Canterbury Region,Residential,2021,1,1.3075313540164464
+Canterbury Region,Residential,2022,2,1.5546856219748768
+Canterbury Region,Residential,2023,3,1.3291749087998326
+Canterbury Region,Residential,2024,4,1.2614108558151462
+Rest of North Island,Commercial,2020,0,1.1798636527966446
+Rest of North Island,Commercial,2021,1,1.6202304929197249
+Rest of North Island,Commercial,2022,2,1.5489385155656314
+Rest of North Island,Commercial,2023,3,1.8294701348981868
+Rest of North Island,Commercial,2024,4,1.654794576008333
+Rest of North Island,Farm,2020,0,1.0396408029995141
+Rest of North Island,Farm,2021,1,1.0246918791209976
+Rest of North Island,Farm,2022,2,1.127388157194415
+Rest of North Island,Farm,2023,3,0.8708492768007604
+Rest of North Island,Farm,2024,4,0.8696904624828391
+Rest of North Island,Industrial,2020,0,1.6323168849050826
+Rest of North Island,Industrial,2021,1,2.7995747770355615
+Rest of North Island,Industrial,2022,2,1.7649622828807054
+Rest of North Island,Industrial,2023,3,1.5832275773827642
+Rest of North Island,Industrial,2024,4,1.8015787457455588
+Rest of North Island,Institutional,2020,0,1.6780046974287839
+Rest of North Island,Institutional,2021,1,2.9405577854913716
+Rest of North Island,Institutional,2022,2,2.1222939898559146
+Rest of North Island,Institutional,2023,3,2.6616862652052786
+Rest of North Island,Institutional,2024,4,2.055325730681942
+Rest of North Island,Residential,2020,0,1.2312722642096003
+Rest of North Island,Residential,2021,1,1.6447207632463574
+Rest of North Island,Residential,2022,2,1.5522709251365117
+Rest of North Island,Residential,2023,3,1.3723907881937591
+Rest of North Island,Residential,2024,4,1.254744136679678
+Rest of South Island,Commercial,2020,0,1.6198798058262969
+Rest of South Island,Commercial,2021,1,1.3531502917655536
+Rest of South Island,Commercial,2022,2,1.5589020021463225
+Rest of South Island,Commercial,2023,3,1.4635028991426233
+Rest of South Island,Commercial,2024,4,1.7117536958474484
+Rest of South Island,Farm,2020,0,1.0736638025795047
+Rest of South Island,Farm,2021,1,1.438647230487556
+Rest of South Island,Farm,2022,2,1.6275914801335645
+Rest of South Island,Farm,2023,3,1.258669615095115
+Rest of South Island,Farm,2024,4,1.1109767239076962
+Rest of South Island,Industrial,2020,0,1.4763487272795561
+Rest of South Island,Industrial,2021,1,1.457838261022007
+Rest of South Island,Industrial,2022,2,1.5154255124892475
+Rest of South Island,Industrial,2023,3,1.471570027640453
+Rest of South Island,Industrial,2024,4,1.6328227370421131
+Rest of South Island,Institutional,2020,0,1.4758876504018756
+Rest of South Island,Institutional,2021,1,1.2345475928973841
+Rest of South Island,Institutional,2022,2,1.7109765142893383
+Rest of South Island,Institutional,2023,3,2.4795475503615543
+Rest of South Island,Institutional,2024,4,2.502279467540772
+Rest of South Island,Residential,2020,0,1.19368041753366
+Rest of South Island,Residential,2021,1,1.47314113449055
+Rest of South Island,Residential,2022,2,1.7279911168049993
+Rest of South Island,Residential,2023,3,1.449953011748823
+Rest of South Island,Residential,2024,4,1.4786853781363567
+Waikato Region,Commercial,2020,0,1.3880438584196548
+Waikato Region,Commercial,2021,1,1.3921159095021185
+Waikato Region,Commercial,2022,2,1.108630255661601
+Waikato Region,Commercial,2023,3,1.1527075093867767
+Waikato Region,Commercial,2024,4,0.8645402726166549
+Waikato Region,Farm,2020,0,1.3127677460063978
+Waikato Region,Farm,2021,1,1.0412098529434155
+Waikato Region,Farm,2022,2,0.928997244274977
+Waikato Region,Farm,2023,3,0.8158265432652212
+Waikato Region,Farm,2024,4,0.7384983751541532
+Waikato Region,Industrial,2020,0,1.1373541921748815
+Waikato Region,Industrial,2021,1,1.8025650181156434
+Waikato Region,Industrial,2022,2,2.750497860535897
+Waikato Region,Industrial,2023,3,2.620313762155598
+Waikato Region,Industrial,2024,4,1.644676115106552
+Waikato Region,Institutional,2020,0,1.6765763715872728
+Waikato Region,Institutional,2021,1,1.2471288973065873
+Waikato Region,Institutional,2022,2,2.64598829220945
+Waikato Region,Institutional,2023,3,1.4742749743072678
+Waikato Region,Institutional,2024,4,1.79184413893619
+Waikato Region,Residential,2020,0,1.2408428880492195
+Waikato Region,Residential,2021,1,1.6975445878199387
+Waikato Region,Residential,2022,2,1.6822982352389244
+Waikato Region,Residential,2023,3,1.3193287115919494
+Waikato Region,Residential,2024,4,1.1184320462353063
+Wellington Region,Commercial,2020,0,1.4363433679132633
+Wellington Region,Commercial,2021,1,0.9560600396154001
+Wellington Region,Commercial,2022,2,1.7275472357464339
+Wellington Region,Commercial,2023,3,1.4496690830629984
+Wellington Region,Commercial,2024,4,1.7494204743659025
+Wellington Region,Farm,2020,0,1.369418641634527
+Wellington Region,Farm,2021,1,1.8175745558134684
+Wellington Region,Farm,2022,2,1.6956989991562974
+Wellington Region,Farm,2023,3,1.5945802822191444
+Wellington Region,Farm,2024,4,1.3986414170426045
+Wellington Region,Industrial,2020,0,2.1681427481443682
+Wellington Region,Industrial,2021,1,2.3212237620150344
+Wellington Region,Industrial,2022,2,1.7239114361950816
+Wellington Region,Industrial,2023,3,1.84473688515199
+Wellington Region,Industrial,2024,4,2.2162270499917756
+Wellington Region,Institutional,2020,0,0.8534792602198104
+Wellington Region,Institutional,2021,1,1.6064267253346318
+Wellington Region,Institutional,2022,2,1.2699286334047406
+Wellington Region,Institutional,2023,3,1.673273167231879
+Wellington Region,Institutional,2024,4,1.2715596508601164
+Wellington Region,Residential,2020,0,1.3751692124305885
+Wellington Region,Residential,2021,1,1.725124575800562
+Wellington Region,Residential,2022,2,1.8230449691484543
+Wellington Region,Residential,2023,3,1.4192934462989621
+Wellington Region,Residential,2024,4,1.0966091816123626

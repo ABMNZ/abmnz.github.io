@@ -1,0 +1,145 @@
+Year,Value,Region,Building Type,Data Type
+2024,8206,Auckland Region,Houses,Number
+2024,3354002629,Auckland Region,Houses,Value
+2024,1421,Auckland Region,Apartments,Number
+2024,700772616,Auckland Region,Apartments,Value
+2024,672,Auckland Region,Retirement village,Number
+2024,1120810088,Auckland Region,Retirement village,Value
+2024,7777,Auckland Region,Townhouses,Number
+2024,2632807372,Auckland Region,Townhouses,Value
+2024,262,Auckland Region,Domestic outbuildings,Number
+2024,36405139,Auckland Region,Domestic outbuildings,Value
+2024,3987,Waikato Region,Houses,Number
+2024,1136399712,Waikato Region,Houses,Value
+2024,30,Waikato Region,Apartments,Number
+2024,11919000,Waikato Region,Apartments,Value
+2024,165,Waikato Region,Retirement village,Number
+2024,70740717,Waikato Region,Retirement village,Value
+2024,925,Waikato Region,Townhouses,Number
+2024,290652611,Waikato Region,Townhouses,Value
+2024,407,Waikato Region,Domestic outbuildings,Number
+2024,31306431,Waikato Region,Domestic outbuildings,Value
+2024,3131,Wellington Region,Houses,Number
+2024,662474760,Wellington Region,Houses,Value
+2024,182,Wellington Region,Apartments,Number
+2024,64162843,Wellington Region,Apartments,Value
+2024,135,Wellington Region,Retirement village,Number
+2024,27579842,Wellington Region,Retirement village,Value
+2024,968,Wellington Region,Townhouses,Number
+2024,302467395,Wellington Region,Townhouses,Value
+2024,227,Wellington Region,Domestic outbuildings,Number
+2024,19123799,Wellington Region,Domestic outbuildings,Value
+2024,6971,Canterbury Region,Houses,Number
+2024,2003132881,Canterbury Region,Houses,Value
+2024,93,Canterbury Region,Apartments,Number
+2024,2063071541,Canterbury Region,Apartments,Value
+2024,363,Canterbury Region,Retirement village,Number
+2024,134397008,Canterbury Region,Retirement village,Value
+2024,2490,Canterbury Region,Townhouses,Number
+2024,680756229,Canterbury Region,Townhouses,Value
+2024,354,Canterbury Region,Domestic outbuildings,Number
+2024,32070581,Canterbury Region,Domestic outbuildings,Value
+2024,9025,Rest of North Island,Houses,Number
+2024,2050980589,Rest of North Island,Houses,Value
+2024,288,Rest of North Island,Apartments,Number
+2024,89122816,Rest of North Island,Apartments,Value
+2024,272,Rest of North Island,Retirement village,Number
+2024,93682477,Rest of North Island,Retirement village,Value
+2024,1509,Rest of North Island,Townhouses,Number
+2024,504139008,Rest of North Island,Townhouses,Value
+2024,651,Rest of North Island,Domestic outbuildings,Number
+2024,51546853,Rest of North Island,Domestic outbuildings,Value
+2024,6467,Rest of South Island,Houses,Number
+2024,1596657725,Rest of South Island,Houses,Value
+2024,112,Rest of South Island,Apartments,Number
+2024,42029180,Rest of South Island,Apartments,Value
+2024,256,Rest of South Island,Retirement village,Number
+2024,73872228,Rest of South Island,Retirement village,Value
+2024,1047,Rest of South Island,Townhouses,Number
+2024,374997562,Rest of South Island,Townhouses,Value
+2024,449,Rest of South Island,Domestic outbuildings,Number
+2024,38193226,Rest of South Island,Domestic outbuildings,Value
+2024,50,Auckland Region,Temporary Accommodation,Number
+2024,220495424,Auckland Region,Temporary Accommodation,Value
+2024,100,Auckland Region,Healthcare,Number
+2024,538625957,Auckland Region,Healthcare,Value
+2024,363,Auckland Region,Education,Number
+2024,334191305,Auckland Region,Education,Value
+2024,135,Auckland Region,Sociocultural,Number
+2024,188674642,Auckland Region,Sociocultural,Value
+2024,903,Auckland Region,Commercial,Number
+2024,1222625293,Auckland Region,Commercial,Value
+2024,489,Auckland Region,Industrial,Number
+2024,972095049,Auckland Region,Industrial,Value
+2024,143,Auckland Region,Farm,Number
+2024,26825353,Auckland Region,Farm,Value
+2024,24,Waikato Region,Temporary Accommodation,Number
+2024,23787000,Waikato Region,Temporary Accommodation,Value
+2024,47,Waikato Region,Healthcare,Number
+2024,102782500,Waikato Region,Healthcare,Value
+2024,184,Waikato Region,Education,Number
+2024,75611172,Waikato Region,Education,Value
+2024,99,Waikato Region,Sociocultural,Number
+2024,40516998,Waikato Region,Sociocultural,Value
+2024,246,Waikato Region,Commercial,Number
+2024,117404504,Waikato Region,Commercial,Value
+2024,212,Waikato Region,Industrial,Number
+2024,247445923,Waikato Region,Industrial,Value
+2024,299,Waikato Region,Farm,Number
+2024,54568845,Waikato Region,Farm,Value
+2024,19,Wellington Region,Temporary Accommodation,Number
+2024,12029000,Wellington Region,Temporary Accommodation,Value
+2024,29,Wellington Region,Healthcare,Number
+2024,67639441,Wellington Region,Healthcare,Value
+2024,167,Wellington Region,Education,Number
+2024,115896653,Wellington Region,Education,Value
+2024,70,Wellington Region,Sociocultural,Number
+2024,111005260,Wellington Region,Sociocultural,Value
+2024,346,Wellington Region,Commercial,Number
+2024,476326908,Wellington Region,Commercial,Value
+2024,90,Wellington Region,Industrial,Number
+2024,130878300,Wellington Region,Industrial,Value
+2024,79,Wellington Region,Farm,Number
+2024,9723655,Wellington Region,Farm,Value
+2024,44,Canterbury Region,Temporary Accommodation,Number
+2024,38229894,Canterbury Region,Temporary Accommodation,Value
+2024,60,Canterbury Region,Healthcare,Number
+2024,113863350,Canterbury Region,Healthcare,Value
+2024,158,Canterbury Region,Education,Number
+2024,217061414,Canterbury Region,Education,Value
+2024,79,Canterbury Region,Sociocultural,Number
+2024,411724404,Canterbury Region,Sociocultural,Value
+2024,353,Canterbury Region,Commercial,Number
+2024,271841853,Canterbury Region,Commercial,Value
+2024,316,Canterbury Region,Industrial,Number
+2024,493963750,Canterbury Region,Industrial,Value
+2024,364,Canterbury Region,Farm,Number
+2024,49716641,Canterbury Region,Farm,Value
+2024,88,Rest of North Island,Temporary Accommodation,Number
+2024,56223820,Rest of North Island,Temporary Accommodation,Value
+2024,79,Rest of North Island,Healthcare,Number
+2024,184527860,Rest of North Island,Healthcare,Value
+2024,427,Rest of North Island,Education,Number
+2024,243475371,Rest of North Island,Education,Value
+2024,222,Rest of North Island,Sociocultural,Number
+2024,157449962,Rest of North Island,Sociocultural,Value
+2024,590,Rest of North Island,Commercial,Number
+2024,377123374,Rest of North Island,Commercial,Value
+2024,291,Rest of North Island,Industrial,Number
+2024,445083023,Rest of North Island,Industrial,Value
+2024,509,Rest of North Island,Farm,Number
+2024,65868407,Rest of North Island,Farm,Value
+2024,75,Rest of South Island,Temporary Accommodation,Number
+2024,89836137,Rest of South Island,Temporary Accommodation,Value
+2024,52,Rest of South Island,Healthcare,Number
+2024,275201658,Rest of South Island,Healthcare,Value
+2024,195,Rest of South Island,Education,Number
+2024,92176510,Rest of South Island,Education,Value
+2024,86,Rest of South Island,Sociocultural,Number
+2024,112803495,Rest of South Island,Sociocultural,Value
+2024,329,Rest of South Island,Commercial,Number
+2024,247616650,Rest of South Island,Commercial,Value
+2024,273,Rest of South Island,Industrial,Number
+2024,220447658,Rest of South Island,Industrial,Value
+2024,369,Rest of South Island,Farm,Number
+2024,49663441,Rest of South Island,Farm,Value
