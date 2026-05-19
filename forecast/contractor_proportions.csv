@@ -1,0 +1,433 @@
+Category,Region,Turnover Band,Percentage
+E301 Residential Building Construction,Auckland Region,01 <$100k,0.058676878
+E301 Residential Building Construction,Auckland Region,02 $100k-<$1m,0.051858418
+E301 Residential Building Construction,Auckland Region,03 $1m-<$5m,0.01632619
+E301 Residential Building Construction,Auckland Region,04 $5m-<$10m,0.002545276
+E301 Residential Building Construction,Auckland Region,05 $10m-<$20m,0.001300166
+E301 Residential Building Construction,Auckland Region,06 $20m-<$50m,0.000753842
+E301 Residential Building Construction,Auckland Region,07 $50m-<$100m,0.000152462
+E301 Residential Building Construction,Auckland Region,08 $100m-<$200m,0.000105877
+E301 Residential Building Construction,Auckland Region,09 $200m+,5.93E-05
+E301 Residential Building Construction,Canterbury Region,01 <$100k,0.019130117
+E301 Residential Building Construction,Canterbury Region,02 $100k-<$1m,0.016907129
+E301 Residential Building Construction,Canterbury Region,03 $1m-<$5m,0.005322743
+E301 Residential Building Construction,Canterbury Region,04 $5m-<$10m,0.000829823
+E301 Residential Building Construction,Canterbury Region,05 $10m-<$20m,0.000423886
+E301 Residential Building Construction,Canterbury Region,06 $20m-<$50m,0.000245771
+E301 Residential Building Construction,Canterbury Region,07 $50m-<$100m,4.97E-05
+E301 Residential Building Construction,Canterbury Region,08 $100m-<$200m,3.45E-05
+E301 Residential Building Construction,Canterbury Region,09 $200m+,1.93E-05
+E301 Residential Building Construction,Rest of North Island,01 <$100k,0.02731542
+E301 Residential Building Construction,Rest of North Island,02 $100k-<$1m,0.024141272
+E301 Residential Building Construction,Rest of North Island,03 $1m-<$5m,0.007600213
+E301 Residential Building Construction,Rest of North Island,04 $5m-<$10m,0.001184884
+E301 Residential Building Construction,Rest of North Island,05 $10m-<$20m,0.000605257
+E301 Residential Building Construction,Rest of North Island,06 $20m-<$50m,0.000350931
+E301 Residential Building Construction,Rest of North Island,07 $50m-<$100m,7.10E-05
+E301 Residential Building Construction,Rest of North Island,08 $100m-<$200m,4.93E-05
+E301 Residential Building Construction,Rest of North Island,09 $200m+,2.76E-05
+E301 Residential Building Construction,Rest of South Island,01 <$100k,0.016668932
+E301 Residential Building Construction,Rest of South Island,02 $100k-<$1m,0.014731943
+E301 Residential Building Construction,Rest of South Island,03 $1m-<$5m,0.004637945
+E301 Residential Building Construction,Rest of South Island,04 $5m-<$10m,0.000723062
+E301 Residential Building Construction,Rest of South Island,05 $10m-<$20m,0.000369351
+E301 Residential Building Construction,Rest of South Island,06 $20m-<$50m,0.000214152
+E301 Residential Building Construction,Rest of South Island,07 $50m-<$100m,4.33E-05
+E301 Residential Building Construction,Rest of South Island,08 $100m-<$200m,3.01E-05
+E301 Residential Building Construction,Rest of South Island,09 $200m+,1.68E-05
+E301 Residential Building Construction,Waikato Region,01 <$100k,0.013499225
+E301 Residential Building Construction,Waikato Region,02 $100k-<$1m,0.011930567
+E301 Residential Building Construction,Waikato Region,03 $1m-<$5m,0.003756009
+E301 Residential Building Construction,Waikato Region,04 $5m-<$10m,0.000585567
+E301 Residential Building Construction,Waikato Region,05 $10m-<$20m,0.000299117
+E301 Residential Building Construction,Waikato Region,06 $20m-<$50m,0.000173429
+E301 Residential Building Construction,Waikato Region,07 $50m-<$100m,3.51E-05
+E301 Residential Building Construction,Waikato Region,08 $100m-<$200m,2.44E-05
+E301 Residential Building Construction,Waikato Region,09 $200m+,1.36E-05
+E301 Residential Building Construction,Wellington Region,01 <$100k,0.013722969
+E301 Residential Building Construction,Wellington Region,02 $100k-<$1m,0.012128311
+E301 Residential Building Construction,Wellington Region,03 $1m-<$5m,0.003818264
+E301 Residential Building Construction,Wellington Region,04 $5m-<$10m,0.000595273
+E301 Residential Building Construction,Wellington Region,05 $10m-<$20m,0.000304074
+E301 Residential Building Construction,Wellington Region,06 $20m-<$50m,0.000176304
+E301 Residential Building Construction,Wellington Region,07 $50m-<$100m,3.57E-05
+E301 Residential Building Construction,Wellington Region,08 $100m-<$200m,2.48E-05
+E301 Residential Building Construction,Wellington Region,09 $200m+,1.39E-05
+E302 Non-Residential Building Construction,Auckland Region,01 <$100k,0.003971457
+E302 Non-Residential Building Construction,Auckland Region,02 $100k-<$1m,0.00350996
+E302 Non-Residential Building Construction,Auckland Region,03 $1m-<$5m,0.001105014
+E302 Non-Residential Building Construction,Auckland Region,04 $5m-<$10m,0.000172273
+E302 Non-Residential Building Construction,Auckland Region,05 $10m-<$20m,8.80E-05
+E302 Non-Residential Building Construction,Auckland Region,06 $20m-<$50m,5.10E-05
+E302 Non-Residential Building Construction,Auckland Region,07 $50m-<$100m,1.03E-05
+E302 Non-Residential Building Construction,Auckland Region,08 $100m-<$200m,7.17E-06
+E302 Non-Residential Building Construction,Auckland Region,09 $200m+,4.01E-06
+E302 Non-Residential Building Construction,Canterbury Region,01 <$100k,0.001435691
+E302 Non-Residential Building Construction,Canterbury Region,02 $100k-<$1m,0.001268859
+E302 Non-Residential Building Construction,Canterbury Region,03 $1m-<$5m,0.000399465
+E302 Non-Residential Building Construction,Canterbury Region,04 $5m-<$10m,6.23E-05
+E302 Non-Residential Building Construction,Canterbury Region,05 $10m-<$20m,3.18E-05
+E302 Non-Residential Building Construction,Canterbury Region,06 $20m-<$50m,1.84E-05
+E302 Non-Residential Building Construction,Canterbury Region,07 $50m-<$100m,3.73E-06
+E302 Non-Residential Building Construction,Canterbury Region,08 $100m-<$200m,2.59E-06
+E302 Non-Residential Building Construction,Canterbury Region,09 $200m+,1.45E-06
+E302 Non-Residential Building Construction,Rest of North Island,01 <$100k,0.00220015
+E302 Non-Residential Building Construction,Rest of North Island,02 $100k-<$1m,0.001944485
+E302 Non-Residential Building Construction,Rest of North Island,03 $1m-<$5m,0.000612167
+E302 Non-Residential Building Construction,Rest of North Island,04 $5m-<$10m,9.54E-05
+E302 Non-Residential Building Construction,Rest of North Island,05 $10m-<$20m,4.88E-05
+E302 Non-Residential Building Construction,Rest of North Island,06 $20m-<$50m,2.83E-05
+E302 Non-Residential Building Construction,Rest of North Island,07 $50m-<$100m,5.72E-06
+E302 Non-Residential Building Construction,Rest of North Island,08 $100m-<$200m,3.97E-06
+E302 Non-Residential Building Construction,Rest of North Island,09 $200m+,2.22E-06
+E302 Non-Residential Building Construction,Rest of South Island,01 <$100k,0.001044139
+E302 Non-Residential Building Construction,Rest of South Island,02 $100k-<$1m,0.000922806
+E302 Non-Residential Building Construction,Rest of South Island,03 $1m-<$5m,0.00029052
+E302 Non-Residential Building Construction,Rest of South Island,04 $5m-<$10m,4.53E-05
+E302 Non-Residential Building Construction,Rest of South Island,05 $10m-<$20m,2.31E-05
+E302 Non-Residential Building Construction,Rest of South Island,06 $20m-<$50m,1.34E-05
+E302 Non-Residential Building Construction,Rest of South Island,07 $50m-<$100m,2.71E-06
+E302 Non-Residential Building Construction,Rest of South Island,08 $100m-<$200m,1.88E-06
+E302 Non-Residential Building Construction,Rest of South Island,09 $200m+,1.06E-06
+E302 Non-Residential Building Construction,Waikato Region,01 <$100k,0.000950912
+E302 Non-Residential Building Construction,Waikato Region,02 $100k-<$1m,0.000840413
+E302 Non-Residential Building Construction,Waikato Region,03 $1m-<$5m,0.000264581
+E302 Non-Residential Building Construction,Waikato Region,04 $5m-<$10m,4.12E-05
+E302 Non-Residential Building Construction,Waikato Region,05 $10m-<$20m,2.11E-05
+E302 Non-Residential Building Construction,Waikato Region,06 $20m-<$50m,1.22E-05
+E302 Non-Residential Building Construction,Waikato Region,07 $50m-<$100m,2.47E-06
+E302 Non-Residential Building Construction,Waikato Region,08 $100m-<$200m,1.72E-06
+E302 Non-Residential Building Construction,Waikato Region,09 $200m+,9.61E-07
+E302 Non-Residential Building Construction,Wellington Region,01 <$100k,0.001137366
+E302 Non-Residential Building Construction,Wellington Region,02 $100k-<$1m,0.0010052
+E302 Non-Residential Building Construction,Wellington Region,03 $1m-<$5m,0.000316459
+E302 Non-Residential Building Construction,Wellington Region,04 $5m-<$10m,4.93E-05
+E302 Non-Residential Building Construction,Wellington Region,05 $10m-<$20m,2.52E-05
+E302 Non-Residential Building Construction,Wellington Region,06 $20m-<$50m,1.46E-05
+E302 Non-Residential Building Construction,Wellington Region,07 $50m-<$100m,2.96E-06
+E302 Non-Residential Building Construction,Wellington Region,08 $100m-<$200m,2.05E-06
+E302 Non-Residential Building Construction,Wellington Region,09 $200m+,1.15E-06
+E310 Heavy and Civil Engineering Construction,Auckland Region,01 <$100k,0.003031596
+E310 Heavy and Civil Engineering Construction,Auckland Region,02 $100k-<$1m,0.004677601
+E310 Heavy and Civil Engineering Construction,Auckland Region,03 $1m-<$5m,0.001985032
+E310 Heavy and Civil Engineering Construction,Auckland Region,04 $5m-<$10m,0.000550306
+E310 Heavy and Civil Engineering Construction,Auckland Region,05 $10m-<$20m,0.000432383
+E310 Heavy and Civil Engineering Construction,Auckland Region,06 $20m-<$50m,0.000275153
+E310 Heavy and Civil Engineering Construction,Auckland Region,07 $50m-<$100m,0.000113009
+E310 Heavy and Civil Engineering Construction,Auckland Region,08 $100m-<$200m,8.35E-05
+E310 Heavy and Civil Engineering Construction,Auckland Region,09 $200m+,7.37E-05
+E310 Heavy and Civil Engineering Construction,Canterbury Region,01 <$100k,0.001131193
+E310 Heavy and Civil Engineering Construction,Canterbury Region,02 $100k-<$1m,0.001745373
+E310 Heavy and Civil Engineering Construction,Canterbury Region,03 $1m-<$5m,0.000740684
+E310 Heavy and Civil Engineering Construction,Canterbury Region,04 $5m-<$10m,0.000205338
+E310 Heavy and Civil Engineering Construction,Canterbury Region,05 $10m-<$20m,0.000161337
+E310 Heavy and Civil Engineering Construction,Canterbury Region,06 $20m-<$50m,0.000102669
+E310 Heavy and Civil Engineering Construction,Canterbury Region,07 $50m-<$100m,4.22E-05
+E310 Heavy and Civil Engineering Construction,Canterbury Region,08 $100m-<$200m,3.12E-05
+E310 Heavy and Civil Engineering Construction,Canterbury Region,09 $200m+,2.75E-05
+E310 Heavy and Civil Engineering Construction,Rest of North Island,01 <$100k,0.001956963
+E310 Heavy and Civil Engineering Construction,Rest of North Island,02 $100k-<$1m,0.003019496
+E310 Heavy and Civil Engineering Construction,Rest of North Island,03 $1m-<$5m,0.001281383
+E310 Heavy and Civil Engineering Construction,Rest of North Island,04 $5m-<$10m,0.000355235
+E310 Heavy and Civil Engineering Construction,Rest of North Island,05 $10m-<$20m,0.000279113
+E310 Heavy and Civil Engineering Construction,Rest of North Island,06 $20m-<$50m,0.000177617
+E310 Heavy and Civil Engineering Construction,Rest of North Island,07 $50m-<$100m,7.30E-05
+E310 Heavy and Civil Engineering Construction,Rest of North Island,08 $100m-<$200m,5.39E-05
+E310 Heavy and Civil Engineering Construction,Rest of North Island,09 $200m+,4.76E-05
+E310 Heavy and Civil Engineering Construction,Rest of South Island,01 <$100k,0.001142505
+E310 Heavy and Civil Engineering Construction,Rest of South Island,02 $100k-<$1m,0.001762827
+E310 Heavy and Civil Engineering Construction,Rest of South Island,03 $1m-<$5m,0.00074809
+E310 Heavy and Civil Engineering Construction,Rest of South Island,04 $5m-<$10m,0.000207391
+E310 Heavy and Civil Engineering Construction,Rest of South Island,05 $10m-<$20m,0.00016295
+E310 Heavy and Civil Engineering Construction,Rest of South Island,06 $20m-<$50m,0.000103696
+E310 Heavy and Civil Engineering Construction,Rest of South Island,07 $50m-<$100m,4.26E-05
+E310 Heavy and Civil Engineering Construction,Rest of South Island,08 $100m-<$200m,3.15E-05
+E310 Heavy and Civil Engineering Construction,Rest of South Island,09 $200m+,2.78E-05
+E310 Heavy and Civil Engineering Construction,Waikato Region,01 <$100k,0.000871018
+E310 Heavy and Civil Engineering Construction,Waikato Region,02 $100k-<$1m,0.001343937
+E310 Heavy and Civil Engineering Construction,Waikato Region,03 $1m-<$5m,0.000570326
+E310 Heavy and Civil Engineering Construction,Waikato Region,04 $5m-<$10m,0.00015811
+E310 Heavy and Civil Engineering Construction,Waikato Region,05 $10m-<$20m,0.00012423
+E310 Heavy and Civil Engineering Construction,Waikato Region,06 $20m-<$50m,7.91E-05
+E310 Heavy and Civil Engineering Construction,Waikato Region,07 $50m-<$100m,3.25E-05
+E310 Heavy and Civil Engineering Construction,Waikato Region,08 $100m-<$200m,2.40E-05
+E310 Heavy and Civil Engineering Construction,Waikato Region,09 $200m+,2.12E-05
+E310 Heavy and Civil Engineering Construction,Wellington Region,01 <$100k,0.000667404
+E310 Heavy and Civil Engineering Construction,Wellington Region,02 $100k-<$1m,0.00102977
+E310 Heavy and Civil Engineering Construction,Wellington Region,03 $1m-<$5m,0.000437003
+E310 Heavy and Civil Engineering Construction,Wellington Region,04 $5m-<$10m,0.000121149
+E310 Heavy and Civil Engineering Construction,Wellington Region,05 $10m-<$20m,9.52E-05
+E310 Heavy and Civil Engineering Construction,Wellington Region,06 $20m-<$50m,6.06E-05
+E310 Heavy and Civil Engineering Construction,Wellington Region,07 $50m-<$100m,2.49E-05
+E310 Heavy and Civil Engineering Construction,Wellington Region,08 $100m-<$200m,1.84E-05
+E310 Heavy and Civil Engineering Construction,Wellington Region,09 $200m+,1.62E-05
+E321 Land Development and Site Preparation Services,Auckland Region,01 <$100k,0.009712018
+E321 Land Development and Site Preparation Services,Auckland Region,02 $100k-<$1m,0.011653672
+E321 Land Development and Site Preparation Services,Auckland Region,03 $1m-<$5m,0.00263885
+E321 Land Development and Site Preparation Services,Auckland Region,04 $5m-<$10m,0.000368746
+E321 Land Development and Site Preparation Services,Auckland Region,05 $10m-<$20m,0.00013869
+E321 Land Development and Site Preparation Services,Auckland Region,06 $20m-<$50m,8.76E-05
+E321 Land Development and Site Preparation Services,Auckland Region,07 $50m-<$100m,1.55E-05
+E321 Land Development and Site Preparation Services,Auckland Region,08 $100m-<$200m,6.56E-06
+E321 Land Development and Site Preparation Services,Auckland Region,09 $200m+,4.69E-07
+E321 Land Development and Site Preparation Services,Canterbury Region,01 <$100k,0.003419027
+E321 Land Development and Site Preparation Services,Canterbury Region,02 $100k-<$1m,0.004102568
+E321 Land Development and Site Preparation Services,Canterbury Region,03 $1m-<$5m,0.000928983
+E321 Land Development and Site Preparation Services,Canterbury Region,04 $5m-<$10m,0.000129813
+E321 Land Development and Site Preparation Services,Canterbury Region,05 $10m-<$20m,4.88E-05
+E321 Land Development and Site Preparation Services,Canterbury Region,06 $20m-<$50m,3.08E-05
+E321 Land Development and Site Preparation Services,Canterbury Region,07 $50m-<$100m,5.44E-06
+E321 Land Development and Site Preparation Services,Canterbury Region,08 $100m-<$200m,2.31E-06
+E321 Land Development and Site Preparation Services,Canterbury Region,09 $200m+,1.65E-07
+E321 Land Development and Site Preparation Services,Rest of North Island,01 <$100k,0.0066894
+E321 Land Development and Site Preparation Services,Rest of North Island,02 $100k-<$1m,0.008026764
+E321 Land Development and Site Preparation Services,Rest of North Island,03 $1m-<$5m,0.001817575
+E321 Land Development and Site Preparation Services,Rest of North Island,04 $5m-<$10m,0.000253983
+E321 Land Development and Site Preparation Services,Rest of North Island,05 $10m-<$20m,9.55E-05
+E321 Land Development and Site Preparation Services,Rest of North Island,06 $20m-<$50m,6.03E-05
+E321 Land Development and Site Preparation Services,Rest of North Island,07 $50m-<$100m,1.06E-05
+E321 Land Development and Site Preparation Services,Rest of North Island,08 $100m-<$200m,4.52E-06
+E321 Land Development and Site Preparation Services,Rest of North Island,09 $200m+,3.23E-07
+E321 Land Development and Site Preparation Services,Rest of South Island,01 <$100k,0.003782402
+E321 Land Development and Site Preparation Services,Rest of South Island,02 $100k-<$1m,0.00453859
+E321 Land Development and Site Preparation Services,Rest of South Island,03 $1m-<$5m,0.001027715
+E321 Land Development and Site Preparation Services,Rest of South Island,04 $5m-<$10m,0.00014361
+E321 Land Development and Site Preparation Services,Rest of South Island,05 $10m-<$20m,5.40E-05
+E321 Land Development and Site Preparation Services,Rest of South Island,06 $20m-<$50m,3.41E-05
+E321 Land Development and Site Preparation Services,Rest of South Island,07 $50m-<$100m,6.02E-06
+E321 Land Development and Site Preparation Services,Rest of South Island,08 $100m-<$200m,2.55E-06
+E321 Land Development and Site Preparation Services,Rest of South Island,09 $200m+,1.82E-07
+E321 Land Development and Site Preparation Services,Waikato Region,01 <$100k,0.003452061
+E321 Land Development and Site Preparation Services,Waikato Region,02 $100k-<$1m,0.004142207
+E321 Land Development and Site Preparation Services,Waikato Region,03 $1m-<$5m,0.000937959
+E321 Land Development and Site Preparation Services,Waikato Region,04 $5m-<$10m,0.000131068
+E321 Land Development and Site Preparation Services,Waikato Region,05 $10m-<$20m,4.93E-05
+E321 Land Development and Site Preparation Services,Waikato Region,06 $20m-<$50m,3.11E-05
+E321 Land Development and Site Preparation Services,Waikato Region,07 $50m-<$100m,5.50E-06
+E321 Land Development and Site Preparation Services,Waikato Region,08 $100m-<$200m,2.33E-06
+E321 Land Development and Site Preparation Services,Waikato Region,09 $200m+,1.67E-07
+E321 Land Development and Site Preparation Services,Wellington Region,01 <$100k,0.001882942
+E321 Land Development and Site Preparation Services,Wellington Region,02 $100k-<$1m,0.002259385
+E321 Land Development and Site Preparation Services,Wellington Region,03 $1m-<$5m,0.000511614
+E321 Land Development and Site Preparation Services,Wellington Region,04 $5m-<$10m,7.15E-05
+E321 Land Development and Site Preparation Services,Wellington Region,05 $10m-<$20m,2.69E-05
+E321 Land Development and Site Preparation Services,Wellington Region,06 $20m-<$50m,1.70E-05
+E321 Land Development and Site Preparation Services,Wellington Region,07 $50m-<$100m,3.00E-06
+E321 Land Development and Site Preparation Services,Wellington Region,08 $100m-<$200m,1.27E-06
+E321 Land Development and Site Preparation Services,Wellington Region,09 $200m+,9.08E-08
+E322 Building Structure Services,Auckland Region,01 <$100k,0.00725098
+E322 Building Structure Services,Auckland Region,02 $100k-<$1m,0.008700616
+E322 Building Structure Services,Auckland Region,03 $1m-<$5m,0.001970162
+E322 Building Structure Services,Auckland Region,04 $5m-<$10m,0.000275305
+E322 Building Structure Services,Auckland Region,05 $10m-<$20m,0.000103545
+E322 Building Structure Services,Auckland Region,06 $20m-<$50m,6.54E-05
+E322 Building Structure Services,Auckland Region,07 $50m-<$100m,1.15E-05
+E322 Building Structure Services,Auckland Region,08 $100m-<$200m,4.90E-06
+E322 Building Structure Services,Auckland Region,09 $200m+,3.50E-07
+E322 Building Structure Services,Canterbury Region,01 <$100k,0.003501612
+E322 Building Structure Services,Canterbury Region,02 $100k-<$1m,0.004201664
+E322 Building Structure Services,Canterbury Region,03 $1m-<$5m,0.000951422
+E322 Building Structure Services,Canterbury Region,04 $5m-<$10m,0.000132949
+E322 Building Structure Services,Canterbury Region,05 $10m-<$20m,5.00E-05
+E322 Building Structure Services,Canterbury Region,06 $20m-<$50m,3.16E-05
+E322 Building Structure Services,Canterbury Region,07 $50m-<$100m,5.57E-06
+E322 Building Structure Services,Canterbury Region,08 $100m-<$200m,2.37E-06
+E322 Building Structure Services,Canterbury Region,09 $200m+,1.69E-07
+E322 Building Structure Services,Rest of North Island,01 <$100k,0.005120282
+E322 Building Structure Services,Rest of North Island,02 $100k-<$1m,0.006143943
+E322 Building Structure Services,Rest of North Island,03 $1m-<$5m,0.001391231
+E322 Building Structure Services,Rest of North Island,04 $5m-<$10m,0.000194407
+E322 Building Structure Services,Rest of North Island,05 $10m-<$20m,7.31E-05
+E322 Building Structure Services,Rest of North Island,06 $20m-<$50m,4.62E-05
+E322 Building Structure Services,Rest of North Island,07 $50m-<$100m,8.15E-06
+E322 Building Structure Services,Rest of North Island,08 $100m-<$200m,3.46E-06
+E322 Building Structure Services,Rest of North Island,09 $200m+,2.47E-07
+E322 Building Structure Services,Rest of South Island,01 <$100k,0.002295868
+E322 Building Structure Services,Rest of South Island,02 $100k-<$1m,0.002754865
+E322 Building Structure Services,Rest of South Island,03 $1m-<$5m,0.00062381
+E322 Building Structure Services,Rest of South Island,04 $5m-<$10m,8.72E-05
+E322 Building Structure Services,Rest of South Island,05 $10m-<$20m,3.28E-05
+E322 Building Structure Services,Rest of South Island,06 $20m-<$50m,2.07E-05
+E322 Building Structure Services,Rest of South Island,07 $50m-<$100m,3.66E-06
+E322 Building Structure Services,Rest of South Island,08 $100m-<$200m,1.55E-06
+E322 Building Structure Services,Rest of South Island,09 $200m+,1.11E-07
+E322 Building Structure Services,Waikato Region,01 <$100k,0.002758345
+E322 Building Structure Services,Waikato Region,02 $100k-<$1m,0.003309802
+E322 Building Structure Services,Waikato Region,03 $1m-<$5m,0.000749469
+E322 Building Structure Services,Waikato Region,04 $5m-<$10m,0.000104729
+E322 Building Structure Services,Waikato Region,05 $10m-<$20m,3.94E-05
+E322 Building Structure Services,Waikato Region,06 $20m-<$50m,2.49E-05
+E322 Building Structure Services,Waikato Region,07 $50m-<$100m,4.39E-06
+E322 Building Structure Services,Waikato Region,08 $100m-<$200m,1.86E-06
+E322 Building Structure Services,Waikato Region,09 $200m+,1.33E-07
+E322 Building Structure Services,Wellington Region,01 <$100k,0.001816874
+E322 Building Structure Services,Wellington Region,02 $100k-<$1m,0.002180109
+E322 Building Structure Services,Wellington Region,03 $1m-<$5m,0.000493662
+E322 Building Structure Services,Wellington Region,04 $5m-<$10m,6.90E-05
+E322 Building Structure Services,Wellington Region,05 $10m-<$20m,2.59E-05
+E322 Building Structure Services,Wellington Region,06 $20m-<$50m,1.64E-05
+E322 Building Structure Services,Wellington Region,07 $50m-<$100m,2.89E-06
+E322 Building Structure Services,Wellington Region,08 $100m-<$200m,1.23E-06
+E322 Building Structure Services,Wellington Region,09 $200m+,8.77E-08
+E323 Building Installation Services,Auckland Region,01 <$100k,0.029862805
+E323 Building Installation Services,Auckland Region,02 $100k-<$1m,0.035833061
+E323 Building Installation Services,Auckland Region,03 $1m-<$5m,0.008114016
+E323 Building Installation Services,Auckland Region,04 $5m-<$10m,0.00113383
+E323 Building Installation Services,Auckland Region,05 $10m-<$20m,0.000426447
+E323 Building Installation Services,Auckland Region,06 $20m-<$50m,0.000269411
+E323 Building Installation Services,Auckland Region,07 $50m-<$100m,4.75E-05
+E323 Building Installation Services,Auckland Region,08 $100m-<$200m,2.02E-05
+E323 Building Installation Services,Auckland Region,09 $200m+,1.44E-06
+E323 Building Installation Services,Canterbury Region,01 <$100k,0.00948078
+E323 Building Installation Services,Canterbury Region,02 $100k-<$1m,0.011376204
+E323 Building Installation Services,Canterbury Region,03 $1m-<$5m,0.00257602
+E323 Building Installation Services,Canterbury Region,04 $5m-<$10m,0.000359966
+E323 Building Installation Services,Canterbury Region,05 $10m-<$20m,0.000135387
+E323 Building Installation Services,Canterbury Region,06 $20m-<$50m,8.55E-05
+E323 Building Installation Services,Canterbury Region,07 $50m-<$100m,1.51E-05
+E323 Building Installation Services,Canterbury Region,08 $100m-<$200m,6.40E-06
+E323 Building Installation Services,Canterbury Region,09 $200m+,4.57E-07
+E323 Building Installation Services,Rest of North Island,01 <$100k,0.016632657
+E323 Building Installation Services,Rest of North Island,02 $100k-<$1m,0.019957905
+E323 Building Installation Services,Rest of North Island,03 $1m-<$5m,0.004519255
+E323 Building Installation Services,Rest of North Island,04 $5m-<$10m,0.000631508
+E323 Building Installation Services,Rest of North Island,05 $10m-<$20m,0.000237518
+E323 Building Installation Services,Rest of North Island,06 $20m-<$50m,0.000150053
+E323 Building Installation Services,Rest of North Island,07 $50m-<$100m,2.65E-05
+E323 Building Installation Services,Rest of North Island,08 $100m-<$200m,1.12E-05
+E323 Building Installation Services,Rest of North Island,09 $200m+,8.02E-07
+E323 Building Installation Services,Rest of South Island,01 <$100k,0.007961212
+E323 Building Installation Services,Rest of South Island,02 $100k-<$1m,0.00955284
+E323 Building Installation Services,Rest of South Island,03 $1m-<$5m,0.002163139
+E323 Building Installation Services,Rest of South Island,04 $5m-<$10m,0.000302271
+E323 Building Installation Services,Rest of South Island,05 $10m-<$20m,0.000113688
+E323 Building Installation Services,Rest of South Island,06 $20m-<$50m,7.18E-05
+E323 Building Installation Services,Rest of South Island,07 $50m-<$100m,1.27E-05
+E323 Building Installation Services,Rest of South Island,08 $100m-<$200m,5.38E-06
+E323 Building Installation Services,Rest of South Island,09 $200m+,3.84E-07
+E323 Building Installation Services,Waikato Region,01 <$100k,0.007217946
+E323 Building Installation Services,Waikato Region,02 $100k-<$1m,0.008660978
+E323 Building Installation Services,Waikato Region,03 $1m-<$5m,0.001961186
+E323 Building Installation Services,Waikato Region,04 $5m-<$10m,0.000274051
+E323 Building Installation Services,Waikato Region,05 $10m-<$20m,0.000103074
+E323 Building Installation Services,Waikato Region,06 $20m-<$50m,6.51E-05
+E323 Building Installation Services,Waikato Region,07 $50m-<$100m,1.15E-05
+E323 Building Installation Services,Waikato Region,08 $100m-<$200m,4.88E-06
+E323 Building Installation Services,Waikato Region,09 $200m+,3.48E-07
+E323 Building Installation Services,Wellington Region,01 <$100k,0.008076832
+E323 Building Installation Services,Wellington Region,02 $100k-<$1m,0.009691575
+E323 Building Installation Services,Wellington Region,03 $1m-<$5m,0.002194554
+E323 Building Installation Services,Wellington Region,04 $5m-<$10m,0.000306661
+E323 Building Installation Services,Wellington Region,05 $10m-<$20m,0.000115339
+E323 Building Installation Services,Wellington Region,06 $20m-<$50m,7.29E-05
+E323 Building Installation Services,Wellington Region,07 $50m-<$100m,1.29E-05
+E323 Building Installation Services,Wellington Region,08 $100m-<$200m,5.46E-06
+E323 Building Installation Services,Wellington Region,09 $200m+,3.90E-07
+E324 Building Completion Services,Auckland Region,01 <$100k,0.025799614
+E324 Building Completion Services,Auckland Region,02 $100k-<$1m,0.030957545
+E324 Building Completion Services,Auckland Region,03 $1m-<$5m,0.007010007
+E324 Building Completion Services,Auckland Region,04 $5m-<$10m,0.000979559
+E324 Building Completion Services,Auckland Region,05 $10m-<$20m,0.000368424
+E324 Building Completion Services,Auckland Region,06 $20m-<$50m,0.000232754
+E324 Building Completion Services,Auckland Region,07 $50m-<$100m,4.11E-05
+E324 Building Completion Services,Auckland Region,08 $100m-<$200m,1.74E-05
+E324 Building Completion Services,Auckland Region,09 $200m+,1.24E-06
+E324 Building Completion Services,Canterbury Region,01 <$100k,0.010290115
+E324 Building Completion Services,Canterbury Region,02 $100k-<$1m,0.012347343
+E324 Building Completion Services,Canterbury Region,03 $1m-<$5m,0.002795925
+E324 Building Completion Services,Canterbury Region,04 $5m-<$10m,0.000390695
+E324 Building Completion Services,Canterbury Region,05 $10m-<$20m,0.000146945
+E324 Building Completion Services,Canterbury Region,06 $20m-<$50m,9.28E-05
+E324 Building Completion Services,Canterbury Region,07 $50m-<$100m,1.64E-05
+E324 Building Completion Services,Canterbury Region,08 $100m-<$200m,6.95E-06
+E324 Building Completion Services,Canterbury Region,09 $200m+,4.96E-07
+E324 Building Completion Services,Rest of North Island,01 <$100k,0.013543971
+E324 Building Completion Services,Rest of North Island,02 $100k-<$1m,0.01625172
+E324 Building Completion Services,Rest of North Island,03 $1m-<$5m,0.003680029
+E324 Building Completion Services,Rest of North Island,04 $5m-<$10m,0.000514237
+E324 Building Completion Services,Rest of North Island,05 $10m-<$20m,0.000193411
+E324 Building Completion Services,Rest of North Island,06 $20m-<$50m,0.000122188
+E324 Building Completion Services,Rest of North Island,07 $50m-<$100m,2.16E-05
+E324 Building Completion Services,Rest of North Island,08 $100m-<$200m,9.15E-06
+E324 Building Completion Services,Rest of North Island,09 $200m+,6.53E-07
+E324 Building Completion Services,Rest of South Island,01 <$100k,0.006590298
+E324 Building Completion Services,Rest of South Island,02 $100k-<$1m,0.007907849
+E324 Building Completion Services,Rest of South Island,03 $1m-<$5m,0.001790648
+E324 Building Completion Services,Rest of South Island,04 $5m-<$10m,0.00025022
+E324 Building Completion Services,Rest of South Island,05 $10m-<$20m,9.41E-05
+E324 Building Completion Services,Rest of South Island,06 $20m-<$50m,5.95E-05
+E324 Building Completion Services,Rest of South Island,07 $50m-<$100m,1.05E-05
+E324 Building Completion Services,Rest of South Island,08 $100m-<$200m,4.45E-06
+E324 Building Completion Services,Rest of South Island,09 $200m+,3.18E-07
+E324 Building Completion Services,Waikato Region,01 <$100k,0.006458162
+E324 Building Completion Services,Waikato Region,02 $100k-<$1m,0.007749296
+E324 Building Completion Services,Waikato Region,03 $1m-<$5m,0.001754746
+E324 Building Completion Services,Waikato Region,04 $5m-<$10m,0.000245203
+E324 Building Completion Services,Waikato Region,05 $10m-<$20m,9.22E-05
+E324 Building Completion Services,Waikato Region,06 $20m-<$50m,5.83E-05
+E324 Building Completion Services,Waikato Region,07 $50m-<$100m,1.03E-05
+E324 Building Completion Services,Waikato Region,08 $100m-<$200m,4.36E-06
+E324 Building Completion Services,Waikato Region,09 $200m+,3.12E-07
+E324 Building Completion Services,Wellington Region,01 <$100k,0.008010763
+E324 Building Completion Services,Wellington Region,02 $100k-<$1m,0.009612298
+E324 Building Completion Services,Wellington Region,03 $1m-<$5m,0.002176603
+E324 Building Completion Services,Wellington Region,04 $5m-<$10m,0.000304152
+E324 Building Completion Services,Wellington Region,05 $10m-<$20m,0.000114395
+E324 Building Completion Services,Wellington Region,06 $20m-<$50m,7.23E-05
+E324 Building Completion Services,Wellington Region,07 $50m-<$100m,1.28E-05
+E324 Building Completion Services,Wellington Region,08 $100m-<$200m,5.41E-06
+E324 Building Completion Services,Wellington Region,09 $200m+,3.86E-07
+E329 Other Construction Services,Auckland Region,01 <$100k,0.013989931
+E329 Other Construction Services,Auckland Region,02 $100k-<$1m,0.016786838
+E329 Other Construction Services,Auckland Region,03 $1m-<$5m,0.003801201
+E329 Other Construction Services,Auckland Region,04 $5m-<$10m,0.000531169
+E329 Other Construction Services,Auckland Region,05 $10m-<$20m,0.000199779
+E329 Other Construction Services,Auckland Region,06 $20m-<$50m,0.000126212
+E329 Other Construction Services,Auckland Region,07 $50m-<$100m,2.23E-05
+E329 Other Construction Services,Auckland Region,08 $100m-<$200m,9.45E-06
+E329 Other Construction Services,Auckland Region,09 $200m+,6.75E-07
+E329 Other Construction Services,Canterbury Region,01 <$100k,0.004806458
+E329 Other Construction Services,Canterbury Region,02 $100k-<$1m,0.005767379
+E329 Other Construction Services,Canterbury Region,03 $1m-<$5m,0.001305962
+E329 Other Construction Services,Canterbury Region,04 $5m-<$10m,0.000182491
+E329 Other Construction Services,Canterbury Region,05 $10m-<$20m,6.86E-05
+E329 Other Construction Services,Canterbury Region,06 $20m-<$50m,4.34E-05
+E329 Other Construction Services,Canterbury Region,07 $50m-<$100m,7.65E-06
+E329 Other Construction Services,Canterbury Region,08 $100m-<$200m,3.25E-06
+E329 Other Construction Services,Canterbury Region,09 $200m+,2.32E-07
+E329 Other Construction Services,Rest of North Island,01 <$100k,0.008374138
+E329 Other Construction Services,Rest of North Island,02 $100k-<$1m,0.01004832
+E329 Other Construction Services,Rest of North Island,03 $1m-<$5m,0.002275335
+E329 Other Construction Services,Rest of North Island,04 $5m-<$10m,0.000317949
+E329 Other Construction Services,Rest of North Island,05 $10m-<$20m,0.000119584
+E329 Other Construction Services,Rest of North Island,06 $20m-<$50m,7.55E-05
+E329 Other Construction Services,Rest of North Island,07 $50m-<$100m,1.33E-05
+E329 Other Construction Services,Rest of North Island,08 $100m-<$200m,5.66E-06
+E329 Other Construction Services,Rest of North Island,09 $200m+,4.04E-07
+E329 Other Construction Services,Rest of South Island,01 <$100k,0.004228362
+E329 Other Construction Services,Rest of South Island,02 $100k-<$1m,0.005073708
+E329 Other Construction Services,Rest of South Island,03 $1m-<$5m,0.001148887
+E329 Other Construction Services,Rest of South Island,04 $5m-<$10m,0.000160542
+E329 Other Construction Services,Rest of South Island,05 $10m-<$20m,6.04E-05
+E329 Other Construction Services,Rest of South Island,06 $20m-<$50m,3.81E-05
+E329 Other Construction Services,Rest of South Island,07 $50m-<$100m,6.73E-06
+E329 Other Construction Services,Rest of South Island,08 $100m-<$200m,2.86E-06
+E329 Other Construction Services,Rest of South Island,09 $200m+,2.04E-07
+E329 Other Construction Services,Waikato Region,01 <$100k,0.004063191
+E329 Other Construction Services,Waikato Region,02 $100k-<$1m,0.004875516
+E329 Other Construction Services,Waikato Region,03 $1m-<$5m,0.001104009
+E329 Other Construction Services,Waikato Region,04 $5m-<$10m,0.000154271
+E329 Other Construction Services,Waikato Region,05 $10m-<$20m,5.80E-05
+E329 Other Construction Services,Waikato Region,06 $20m-<$50m,3.67E-05
+E329 Other Construction Services,Waikato Region,07 $50m-<$100m,6.47E-06
+E329 Other Construction Services,Waikato Region,08 $100m-<$200m,2.74E-06
+E329 Other Construction Services,Waikato Region,09 $200m+,1.96E-07
+E329 Other Construction Services,Wellington Region,01 <$100k,0.003006101
+E329 Other Construction Services,Wellington Region,02 $100k-<$1m,0.003607089
+E329 Other Construction Services,Wellington Region,03 $1m-<$5m,0.000816787
+E329 Other Construction Services,Wellington Region,04 $5m-<$10m,0.000114136
+E329 Other Construction Services,Wellington Region,05 $10m-<$20m,4.29E-05
+E329 Other Construction Services,Wellington Region,06 $20m-<$50m,2.71E-05
+E329 Other Construction Services,Wellington Region,07 $50m-<$100m,4.79E-06
+E329 Other Construction Services,Wellington Region,08 $100m-<$200m,2.03E-06
+E329 Other Construction Services,Wellington Region,09 $200m+,1.45E-07

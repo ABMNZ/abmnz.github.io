@@ -1,0 +1,28 @@
+ANZSIC06Industry,Turnover Band,Percentage
+E30 Building Construction,01 <$100k,0.005710056
+E30 Building Construction,02 $100k-<$1m,0.043677636
+E30 Building Construction,03 $1m-<$5m,0.086588906
+E30 Building Construction,04 $5m-<$10m,0.043334237
+E30 Building Construction,05 $10m-<$20m,0.045000979
+E30 Building Construction,06 $20m-<$50m,0.055756279
+E30 Building Construction,07 $50m-<$100m,0.026864693
+E30 Building Construction,08 $100m-<$200m,0.033740003
+E30 Building Construction,09 $200m+,0.055966715
+E31 Heavy and Civil Engineering Construction,01 <$100k,0.000194732
+E31 Heavy and Civil Engineering Construction,02 $100k-<$1m,0.003626629
+E31 Heavy and Civil Engineering Construction,03 $1m-<$5m,0.009896802
+E31 Heavy and Civil Engineering Construction,04 $5m-<$10m,0.008370352
+E31 Heavy and Civil Engineering Construction,05 $10m-<$20m,0.013419783
+E31 Heavy and Civil Engineering Construction,06 $20m-<$50m,0.017361544
+E31 Heavy and Civil Engineering Construction,07 $50m-<$100m,0.016300985
+E31 Heavy and Civil Engineering Construction,08 $100m-<$200m,0.023462111
+E31 Heavy and Civil Engineering Construction,09 $200m+,0.092040366
+E32 Construction Services,01 <$100k,0.008504361
+E32 Construction Services,02 $100k-<$1m,0.085075019
+E32 Construction Services,03 $1m-<$5m,0.122512843
+E32 Construction Services,04 $5m-<$10m,0.056346758
+E32 Construction Services,05 $10m-<$20m,0.042393031
+E32 Construction Services,06 $20m-<$50m,0.05840087
+E32 Construction Services,07 $50m-<$100m,0.023107196
+E32 Construction Services,08 $100m-<$200m,0.020253215
+E32 Construction Services,09 $200m+,0.002093897
